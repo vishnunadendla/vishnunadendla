@@ -23,10 +23,10 @@
 ### 🌍 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://linkedin.com/in/vishnu-nadendla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vishnu.nadendla@example.com">
+  <a href="mailto:vishnunadendla440@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com" target="_blank">
