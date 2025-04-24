@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 - 🧠 Passionate about uncovering insights and crafting **data stories**
 - 📊 Strong skills in **RFM Analysis, Clustering, A/B Testing**, and **Forecasting**
 - 💬 Always up to chat about **Power BI**, **Python**, or **Resume Projects**
-- ✉️ **Email**: vishnu.nadendla@example.com
+- ✉️ **Email**: vishnunadendla440@gmail.com
 
 ---
 
