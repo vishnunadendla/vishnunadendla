@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 ### 🚀 About Me
 
 - 🔍 Exploring **Data Analytics**, **Machine Learning**, and **Interactive Dashboards**
+- 📈 Trading enthusiast with a hobby in analyzing **Candlestick Patterns and Market Trends .**
 - 🧠 Passionate about uncovering insights and crafting **data stories**
 - 📊 Strong skills in **RFM Analysis, Clustering, A/B Testing**, and **Forecasting**
 - 💬 Always up to chat about **Power BI**, **Python**, or **Resume Projects**
