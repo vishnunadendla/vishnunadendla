@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Vishnu Nadendla 👋</h1>
-
+Welcome to my GitHub profile! I'm a passionate software developer with experience in Python Dev, Analysis and Visulaization .This is my space for unique stuff and acute perspective.
 <p align="center">
   <em>Data Analyst | Business Intelligence Enthusiast | Power BI Specialist</em><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
