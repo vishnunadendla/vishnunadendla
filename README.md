@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 ### 📌 Featured Projects
 
 - 🔶 **Customer Segmentation using RFM + Clustering**
-- 📈 **iPhone Sentiment Analysis with Twitter NLP + Power BI**
+- 📈 **IN Patient and Out Patient Waiting List Analysis Dashboard.**
 - 🧪 **A/B Testing Analysis for Feature Launch**
 - 📦 **Online Retail RFM Analysis + Dashboard**
 
