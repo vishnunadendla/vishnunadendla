@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I decode messy data into sharp answers. With 2+ ye
 ---
 
 ### 🚀 About Me
-- 📚 Microsoft Certified Data Analyst(PL-300)
 - 🔍 Exploring **Data Analytics**, **Machine Learning**, and **Interactive Dashboards**
 - 📈 Trading enthusiast with a hobby in analyzing **Candlestick Patterns and Market Trends .**
 - 🧠 Passionate about uncovering insights and crafting **data stories**
