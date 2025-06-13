@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Vishnu Nadendla 👋</h1>
-Welcome to my GitHub profile! I'm a passionate software developer with experience in Python Dev, Analysis and Visulaization .This is my space for unique stuff and acute perspective.
+Welcome to my GitHub profile! I decode messy data into sharp answers. With 2+ years of experience and a Power BI PL-300 certification, I build dashboards that don’t just look good — they solve real problems. Whether it’s finding what’s slowing down operations or spotting what’s boosting sales, I turn numbers into clarity and action.
 <p align="center">
   <em>Data Analyst | Business Intelligence Enthusiast | Power BI Specialist</em><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
